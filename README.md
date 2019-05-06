@@ -2,7 +2,7 @@
 
 Simple blackbars script wchich disable radar hud and draw some rectrangles. Script is **STANDALONE** and does not support **ESX**.
 
-Default Key is: H
+Default Key is: **H**
 
 Screenshot:
 
