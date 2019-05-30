@@ -1,6 +1,6 @@
 # fivem-blackbars
 
-Simple blackbars script wchich disable radar hud and draw some rectrangles. Script now support ESX framework.
+Simple blackbars script wchich disable radar hud and draw some rectrangles. Script now support *ESX* framework.
 
 Default Key is: **H**
 
